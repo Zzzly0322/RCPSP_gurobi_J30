@@ -1,0 +1,64 @@
+
+Gurobi 8.1.1 (win64, Python) logging started 07/19/19 21:40:08
+
+Optimize a model with 280 rows, 3200 columns and 22499 nonzeros
+Variable types: 0 continuous, 3200 integer (3200 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+02]
+  Objective range  [1e+00, 1e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 99 rows and 2133 columns
+Presolve time: 0.05s
+Presolved: 181 rows, 1067 columns, 7770 nonzeros
+Variable types: 0 continuous, 1067 integer (1065 binary)
+Found heuristic solution: objective 96.0000000
+
+Root relaxation: objective 5.600000e+01, 41 iterations, 0.00 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0   56.00000    0    6   96.00000   56.00000  41.7%     -    0s
+H    0     0                      79.0000000   56.00000  29.1%     -    0s
+H    0     0                      56.0000000   56.00000  0.00%     -    0s
+
+Explored 1 nodes (42 simplex iterations) in 0.07 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 3: 56 79 96 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 5.600000000000e+01, best bound 5.600000000000e+01, gap 0.0000%
+
+Gurobi 8.1.1 (win64, Python) logging started 07/19/19 21:51:34
+
+Optimize a model with 280 rows, 3200 columns and 22499 nonzeros
+Variable types: 0 continuous, 3200 integer (3200 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+02]
+  Objective range  [1e+00, 1e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 99 rows and 2133 columns
+Presolve time: 0.05s
+Presolved: 181 rows, 1067 columns, 7770 nonzeros
+Variable types: 0 continuous, 1067 integer (1065 binary)
+Found heuristic solution: objective 96.0000000
+
+Root relaxation: objective 5.600000e+01, 41 iterations, 0.00 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0   56.00000    0    6   96.00000   56.00000  41.7%     -    0s
+H    0     0                      79.0000000   56.00000  29.1%     -    0s
+H    0     0                      56.0000000   56.00000  0.00%     -    0s
+
+Explored 1 nodes (42 simplex iterations) in 0.07 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 3: 56 79 96 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 5.600000000000e+01, best bound 5.600000000000e+01, gap 0.0000%

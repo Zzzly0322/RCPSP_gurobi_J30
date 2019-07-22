@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9e9ee13f-4e29-4053-b8cd-c061094d1fba" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gantt_chart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gantt_chart_draw.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/j30.sm/j301_1.sm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/j30.sm/j301_10.sm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/j30.sm/j301_2.sm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/j30.sm/j301_3.sm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/j30.sm/j301_4.sm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/j30.sm/j301_5.sm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/j30.sm/j301_6.sm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/j30.sm/j301_7.sm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/j30.sm/j301_8.sm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/j30.sm/j301_9.sm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/j30.sm/j302_1.sm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/j30.sm/j302_10.sm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/j30.sm/j302_2.sm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/j30.sm/j302_3.sm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/j30.sm/j302_4.sm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/j30.sm/j302_5.sm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/j30.sm/j302_6.sm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/j30.sm/j302_7.sm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/j30.sm/j302_8.sm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/j30.sm/j302_9.sm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/j30.sm/j303_1.sm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/j30.sm/j303_2.sm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/j30.sm/j303_3.sm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/j30.sm/j303_4.sm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/j30.sm/j303_5.sm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/j30.sm/j303_6.sm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/j30.sm/j303_7.sm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/j30.sm/j303_8.sm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/j30.sm/j303_9.sm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_read_RCPSP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gurobi.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gurobi_RCPSP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lnear_model.lp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solve.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/data_read_RCPSP.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="109">
+              <caret line="16" column="48" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-114" />
+    <option name="y" value="21" />
+    <option name="width" value="1611" />
+    <option name="height" value="1032" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="gurobi_RCPSP_J30" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gurobi_RCPSP_J30" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gurobi_RCPSP_J30" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gurobi_RCPSP_J30" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e9ee13f-4e29-4053-b8cd-c061094d1fba" name="Default Changelist" comment="" />
+      <created>1563762581981</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563762581981</updated>
+      <workItem from="1563762586702" duration="1379000" />
+    </task>
+    <task id="LOCAL-00001" summary="initial">
+      <created>1563762708326</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1563762708327</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1379000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2497979" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3285968" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/data_read_RCPSP.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="16" column="48" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
